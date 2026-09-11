@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=120&section=header&text=%F0%9F%95%B7%EF%B8%8F%20%20SPIDER-MAN%20%20%F0%9F%95%B7%EF%B8%8F&fontSize=42&fontColor=ff2a5f&animation=twinkling&subtext=WITH%20GREAT%20POWER%20COMES%20GREAT%20CODE&subFontSize=14&subTextY=95" width="100%" alt="Spider-Man Emblem Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=%F0%9F%95%B7%EF%B8%8F&fontSize=55&fontColor=ffffff" width="100%" alt="Spider-Man Emblem Banner" />
 </div>
 
 <br/>
@@ -7,7 +7,7 @@
 <h1 align="center">I'm Jeevan</h1>
 
 <p align="center">
-  Welcome to my corner of the code world! I am a passionate <b>Hardware Design & Embedded Systems Engineer</b> building high-performance RISC-V processor cores, custom ASIC implementations, and smart systems.
+  Welcome to my corner of the code world! I am a passionate <b>Hardware Design & Embedded Systems Engineer</b> always striving for efficiency, precision, and innovation in RISC-V computer architecture and silicon design.
 </p>
 
 <p align="center">
@@ -97,17 +97,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Jeevan0714">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Jeevan0714&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=dark&hide_border=false&hide=html,css" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ## 📬 Let's Connect!
 
 <p align="center">
@@ -124,11 +113,15 @@
   </a>
 </p>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" width="100%" alt="Footer Banner" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan0714&theme=2077" width="95%" alt="GitHub Profile Stats" />
+</div>
+
+<br/>
 
 <p align="center">
   <sub><i>⚡ Designed with passion by Jeevan | VLSI & RISC-V Processor Design ⚡</i></sub>
