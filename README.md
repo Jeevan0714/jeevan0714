@@ -1,11 +1,5 @@
 <div align="center">
-  <table width="100%" bgcolor="#000000" style="background-color:#000000; border-radius:8px;">
-    <tr>
-      <td align="center" style="padding: 20px 0;">
-        <img src="header.png" width="300" alt="The Fast and The Furious Logo" />
-      </td>
-    </tr>
-  </table>
+  <img src="header.png" width="100%" alt="The Fast and The Furious Banner" />
 </div>
 
 <br/>
