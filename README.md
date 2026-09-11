@@ -22,6 +22,8 @@
   <a href="https://www.linkedin.com/in/jeevan-r-97398537b/"><img src="https://img.shields.io/badge/LinkedIn-Jeevan%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:jeevan0714@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;
+  <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 <div align="center">
@@ -112,6 +114,10 @@
   &nbsp;&nbsp;
   <a href="mailto:jeevan0714@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/7019452301">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Jeevan0714">
