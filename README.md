@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=%F0%9F%95%B7%EF%B8%8F&fontSize=55&fontColor=ffffff" width="100%" alt="Spider-Man Emblem Banner" />
+  <table width="100%" bgcolor="#000000" style="background-color:#000000; border-radius:8px;">
+    <tr>
+      <td align="center" style="padding: 20px 0;">
+        <img src="header.png" width="300" alt="The Fast and The Furious Logo" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
