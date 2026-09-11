@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=%F0%9F%A6%87&fontSize=36&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=%E2%9A%A1&fontSize=38&fontColor=ffffff" width="100%" alt="Header Banner" />
 </div>
 
 <br/>
