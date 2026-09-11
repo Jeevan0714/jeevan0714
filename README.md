@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=120&section=header&text=%E2%9A%A1%20%20RISC-V%20%20%E2%9A%A1&fontSize=42&fontColor=38bdf8&animation=twinkling&subtext=VLSI%20%26%20HARDWARE%20ARCHITECTURE&subFontSize=15&subTextY=95" width="100%" alt="RISC-V Emblem Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=120&section=header&text=%F0%9F%95%B7%EF%B8%8F%20%20SPIDER-MAN%20%20%F0%9F%95%B7%EF%B8%8F&fontSize=42&fontColor=ff2a5f&animation=twinkling&subtext=WITH%20GREAT%20POWER%20COMES%20GREAT%20CODE&subFontSize=14&subTextY=95" width="100%" alt="Spider-Man Emblem Banner" />
 </div>
 
 <br/>
@@ -7,7 +7,7 @@
 <h1 align="center">I'm Jeevan</h1>
 
 <p align="center">
-  Welcome to my corner of the silicon world! I am a passionate <b>Hardware Design & VLSI Engineer</b> building high-performance RISC-V processor cores, custom ASIC implementations, and embedded systems.
+  Welcome to my corner of the code world! I am a passionate <b>Hardware Design & Embedded Systems Engineer</b> building high-performance RISC-V processor cores, custom ASIC implementations, and smart systems.
 </p>
 
 <p align="center">
@@ -97,37 +97,14 @@
 
 ---
 
-## ⚙️ Hardware Engineering Dashboard & Verification Pipeline
+## 📊 GitHub Stats
 
 <div align="center">
-  <p><b>⚡ Silicon Simulation & Hardware Verification Terminal</b></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=38BDF8&background=0F172A&center=false&vCenter=true&width=620&height=110&lines=%24+iverilog+-o+sim_rv32im+riscv_core.v+tb_top.v;%24+vvp+sim_rv32im++%23+Running+Self-Checking+Assembly+Tests...;%24+gtkwave+wave.vcd++%23+Execution+Waveform+PASSED!;%24+yosys+-p+%22synth_gtech%22+lfsr_nfsr_45nm.v++%23+45nm+ASIC+OK" alt="Simulation Terminal Pipeline" />
+  <a href="https://github.com/Jeevan0714">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Jeevan0714&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=dark&hide_border=false&hide=html,css" alt="Top Languages" />
+  </a>
 </div>
-
-<br/>
-
-### 🎯 Core Engineering Metrics & Focus Areas
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Architecture & RTL Design</h4>
-      <p><b>RISC-V Core & Instruction Set (RV32IM)</b></p>
-      <code>[████████████████████] 100%</code>
-      <br/><br/>
-      <p><b>Digital Arithmetic (Booth Multipliers)</b></p>
-      <code>[██████████████████░░] 90%</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔬 VLSI & Silicon Synthesis</h4>
-      <p><b>45nm ASIC PRNG (LFSR/NFSR Generators)</b></p>
-      <code>[██████████████████░░] 90%</code>
-      <br/><br/>
-      <p><b>Self-Checking Verification & GTKWave VCD</b></p>
-      <code>[████████████████████] 100%</code>
-    </td>
-  </tr>
-</table>
 
 ---
 
