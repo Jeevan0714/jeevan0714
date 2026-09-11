@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=%E2%9A%94%EF%B8%8F&fontSize=38&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <table width="100%" bgcolor="#000000" style="background-color:#000000; border-radius:6px;">
+    <tr>
+      <td align="center" style="padding: 18px 0;">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/volkswagen.svg" width="45" height="45" style="filter: invert(1);" alt="Volkswagen Logo" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
