@@ -19,12 +19,7 @@
 <p align="center">
   <a href="https://github.com/Jeevan0714"><img src="https://img.shields.io/badge/Focus-RISC--V%20Architecture%20%26%20VLSI-0ea5e9?style=for-the-badge&logo=cpu&logoColor=white" alt="Focus"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/jeevan-r-97398537b/"><img src="https://img.shields.io/badge/LinkedIn-Jeevan%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:jeevan0714@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  &nbsp;
-  <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=VLSI+%26+Hardware+Design+Engineer;RISC-V+Processor+Architect+(RV32IM);ASIC+Synthesis+%26+Verification+(45nm);Embedded+Systems+%26+Robotics+Developer" alt="Typing SVG Header" />
