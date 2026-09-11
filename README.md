@@ -1,16 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+I'm+Jeevan+%F0%9F%90%A7;VLSI+%26+Hardware+Design+Engineer+%E2%9A%A1;RISC-V+Processor+Architect+%F0%9F%92%BB;ASIC+Synthesis+%26+Verification+%F0%9F%94%AC;Embedded+Systems+%26+Robotics+%F0%9F%A4%96" alt="Typing SVG Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=120&section=header&text=%E2%9A%A1%20%20RISC-V%20%20%E2%9A%A1&fontSize=42&fontColor=38bdf8&animation=twinkling&subtext=VLSI%20%26%20HARDWARE%20ARCHITECTURE&subFontSize=15&subTextY=95" width="100%" alt="RISC-V Emblem Banner" />
 </div>
+
+<br/>
+
+<h1 align="center">I'm Jeevan</h1>
+
+<p align="center">
+  Welcome to my corner of the silicon world! I am a passionate <b>Hardware Design & VLSI Engineer</b> building high-performance RISC-V processor cores, custom ASIC implementations, and embedded systems.
+</p>
 
 <p align="center">
   <a href="https://github.com/Jeevan0714"><img src="https://img.shields.io/badge/Focus-RISC--V%20Architecture%20%26%20VLSI-0ea5e9?style=for-the-badge&logo=cpu&logoColor=white" alt="Focus"></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/jeevan-r-97398537b/"><img src="https://img.shields.io/badge/LinkedIn-Jeevan%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
   <a href="mailto:jeevan0714@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing divider" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=VLSI+%26+Hardware+Design+Engineer;RISC-V+Processor+Architect+(RV32IM);ASIC+Synthesis+%26+Verification+(45nm);Embedded+Systems+%26+Robotics+Developer" alt="Typing SVG Header" />
+</div>
+
+<hr/>
 
 ## 🛠️ About Me
 
@@ -85,26 +97,39 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## ⚙️ Hardware Engineering Dashboard & Verification Pipeline
 
 <div align="center">
-  <a href="https://github.com/Jeevan0714">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeevan0714&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jeevan's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-  </a>
+  <p><b>⚡ Silicon Simulation & Hardware Verification Terminal</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=38BDF8&background=0F172A&center=false&vCenter=true&width=620&height=110&lines=%24+iverilog+-o+sim_rv32im+riscv_core.v+tb_top.v;%24+vvp+sim_rv32im++%23+Running+Self-Checking+Assembly+Tests...;%24+gtkwave+wave.vcd++%23+Execution+Waveform+PASSED!;%24+yosys+-p+%22synth_gtech%22+lfsr_nfsr_45nm.v++%23+45nm+ASIC+OK" alt="Simulation Terminal Pipeline" />
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Jeevan0714">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan0714&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
-</div>
+### 🎯 Core Engineering Metrics & Focus Areas
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing divider" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Architecture & RTL Design</h4>
+      <p><b>RISC-V Core & Instruction Set (RV32IM)</b></p>
+      <code>[████████████████████] 100%</code>
+      <br/><br/>
+      <p><b>Digital Arithmetic (Booth Multipliers)</b></p>
+      <code>[██████████████████░░] 90%</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔬 VLSI & Silicon Synthesis</h4>
+      <p><b>45nm ASIC PRNG (LFSR/NFSR Generators)</b></p>
+      <code>[██████████████████░░] 90%</code>
+      <br/><br/>
+      <p><b>Self-Checking Verification & GTKWave VCD</b></p>
+      <code>[████████████████████] 100%</code>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📬 Let's Connect!
 
@@ -123,6 +148,10 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" width="100%" alt="Footer Banner" />
+</p>
 
 <p align="center">
   <sub><i>⚡ Designed with passion by Jeevan | VLSI & RISC-V Processor Design ⚡</i></sub>
