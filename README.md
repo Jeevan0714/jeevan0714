@@ -11,12 +11,15 @@
   <h3 align="center">Tech Stack</h3>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/SystemVerilog-6366F1?style=for-the-badge&logo=IEEE&logoColor=white" alt="SystemVerilog"/>
+    <img src="https://img.shields.io/badge/RTL_Design-6366F1?style=for-the-badge&logo=IEEE&logoColor=white" alt="RTL Design"/>
     <img src="https://img.shields.io/badge/Verilog-4F46E5?style=for-the-badge&logo=IEEE&logoColor=white" alt="Verilog"/>
     <img src="https://img.shields.io/badge/RISC--V-FF6F00?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V"/>
     <img src="https://img.shields.io/badge/Cadence_EDA-0072C6?style=for-the-badge&logo=cadence&logoColor=white" alt="Cadence EDA"/>
+    <img src="https://img.shields.io/badge/Vivado-E81D2D?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
     <img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
     <img src="https://img.shields.io/badge/FreeRTOS-00878F?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/>
@@ -53,6 +56,37 @@
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <h3 align="center">GitHub Stats</h3>
+
+  <div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714"
+      />
+      <img
+        src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714"
+        alt="Jeevan's GitHub Stats & Top Languages"
+      />
+    </picture>
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake.svg" />
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake.svg" />
+    </picture>
+  </div>
 
   <br/>
 
