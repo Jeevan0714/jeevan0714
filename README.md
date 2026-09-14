@@ -62,28 +62,29 @@
   <h3 align="center">GitHub Stats</h3>
 
   <div align="center">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=Jeevan0714&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      height="165"
-      alt="Jeevan's GitHub Stats"
-    />
-    &nbsp;
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-      height="165"
-      alt="Jeevan's Top Languages"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark) and (max-width: 480px)"
+        srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714&cache_buster=5&layout=mobile"
+      />
+      <source
+        media="(max-width: 480px)"
+        srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714&cache_buster=4&layout=mobile"
+      />
+      <img
+        src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714&cache_buster=4"
+        alt="Github Stats"
+      />
+    </picture>
   </div>
 
   <br/>
 
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake.svg" />
-      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake.svg" />
-    </picture>
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-snake.svg" />
+  </picture>
 
   <br/>
 
