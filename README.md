@@ -64,16 +64,31 @@
   <div align="center">
     <picture>
       <source
-        media="(prefers-color-scheme: dark) and (max-width: 480px)"
-        srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714&cache_buster=5&layout=mobile"
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevan0714&show_icons=true&theme=dark"
       />
       <source
-        media="(max-width: 480px)"
-        srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714&cache_buster=4&layout=mobile"
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevan0714&show_icons=true&theme=default"
       />
       <img
-        src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714&cache_buster=4"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevan0714&show_icons=true&theme=default"
         alt="Github Stats"
+      />
+    </picture>
+    &nbsp;
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=default"
+      />
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=default"
+        alt="Top Languages"
       />
     </picture>
   </div>
