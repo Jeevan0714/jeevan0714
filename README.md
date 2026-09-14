@@ -62,20 +62,17 @@
   <h3 align="center">GitHub Stats</h3>
 
   <div align="center">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714"
-      />
-      <img
-        src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?username=Jeevan0714"
-        alt="Jeevan's GitHub Stats & Top Languages"
-      />
-    </picture>
+    <img
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeevan0714&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      height="165"
+      alt="Jeevan's GitHub Stats"
+    />
+    &nbsp;
+    <img
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=tokyonight&hide_border=true"
+      height="165"
+      alt="Jeevan's Top Languages"
+    />
   </div>
 
   <br/>
