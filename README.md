@@ -62,15 +62,17 @@
   <h3 align="center">GitHub Stats</h3>
 
   <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan0714&theme=2077" alt="Jeevan's GitHub Profile Details" />
-  </div>
-
-  <br/>
-
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeevan0714&theme=2077" alt="Jeevan's GitHub Stats" />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Jeevan0714&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      height="165"
+      alt="Jeevan's GitHub Stats"
+    />
     &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeevan0714&theme=2077" alt="Jeevan's Top Languages" />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      height="165"
+      alt="Jeevan's Top Languages"
+    />
   </div>
 
   <br/>
