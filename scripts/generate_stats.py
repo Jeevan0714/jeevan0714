@@ -63,7 +63,62 @@ def fetch_avatar_b64(url: str) -> tuple[str, str]:
 
 
 def fetch_commit_count(username: str) -> int:
-    """Approximate total commits via GitHub search API."""
+    """
+    Returns total commit contributions across ALL years using GitHub GraphQL API.
+    This matches the green-square contribution count on the GitHub profile.
+    Requires GITHUB_TOKEN with read:user scope (default GITHUB_TOKEN in Actions is fine).
+    Falls back to search API if GraphQL fails.
+    """
+    if not TOKEN:
+        return _commit_count_search(username)
+    try:
+        import datetime
+        current_year = datetime.date.today().year
+        total = 0
+
+        # GitHub joined year — iterate from join year to current year
+        user_data = gh_fetch(f"https://api.github.com/users/{username}")
+        join_year = int(user_data.get("created_at", "2020")[:4])
+
+        for year in range(join_year, current_year + 1):
+            start = f"{year}-01-01T00:00:00Z"
+            end   = f"{year}-12-31T23:59:59Z"
+            query = """
+            query($login: String!, $from: DateTime!, $to: DateTime!) {
+              user(login: $login) {
+                contributionsCollection(from: $from, to: $to) {
+                  totalCommitContributions
+                  restrictedContributionsCount
+                }
+              }
+            }
+            """
+            payload = json.dumps({
+                "query": query,
+                "variables": {"login": username, "from": start, "to": end}
+            }).encode()
+            headers = {
+                "User-Agent":    "stats-card-bot/1.0",
+                "Content-Type":  "application/json",
+                "Authorization": f"bearer {TOKEN}",
+            }
+            req = urllib.request.Request(
+                "https://api.github.com/graphql",
+                data=payload, headers=headers, method="POST"
+            )
+            with urllib.request.urlopen(req, timeout=15) as r:
+                res = json.loads(r.read())
+            col = res["data"]["user"]["contributionsCollection"]
+            total += col["totalCommitContributions"] + col["restrictedContributionsCount"]
+
+        return total
+    except Exception as e:
+        print(f"  GraphQL commit count failed ({e}), falling back to search API")
+        return _commit_count_search(username)
+
+
+def _commit_count_search(username: str) -> int:
+    """Fallback: approximate total commits via GitHub search API (public repos only)."""
     try:
         url = f"https://api.github.com/search/commits?q=author:{username}&per_page=1"
         headers = {
