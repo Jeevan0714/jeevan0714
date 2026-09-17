@@ -65,14 +65,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevan0714&show_icons=true&theme=dark"
+        srcset="https://github-stats-extended.vercel.app/api?username=Jeevan0714&show_icons=true&theme=dark"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevan0714&show_icons=true&theme=default"
+        srcset="https://github-stats-extended.vercel.app/api?username=Jeevan0714&show_icons=true&theme=default"
       />
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevan0714&show_icons=true&theme=default"
+        src="https://github-stats-extended.vercel.app/api?username=Jeevan0714&show_icons=true&theme=default"
         alt="Github Stats"
       />
     </picture>
@@ -80,14 +80,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=dark"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=dark"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=default"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=default"
       />
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=default"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=default"
         alt="Top Languages"
       />
     </picture>
