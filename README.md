@@ -65,30 +65,16 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api?username=Jeevan0714&show_icons=true&theme=dark"
+        srcset="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-stats-dark.svg"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-stats-extended.vercel.app/api?username=Jeevan0714&show_icons=true&theme=default"
+        srcset="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-stats.svg"
       />
       <img
-        src="https://github-stats-extended.vercel.app/api?username=Jeevan0714&show_icons=true&theme=default"
-        alt="Github Stats"
-      />
-    </picture>
-    &nbsp;
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=dark"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=default"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeevan0714&layout=compact&theme=default"
-        alt="Top Languages"
+        src="https://raw.githubusercontent.com/Jeevan0714/Jeevan0714/output/github-stats-dark.svg"
+        alt="GitHub Stats Card"
+        width="780"
       />
     </picture>
   </div>
